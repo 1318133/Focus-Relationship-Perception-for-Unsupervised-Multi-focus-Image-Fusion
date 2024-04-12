@@ -1,4 +1,5 @@
 This is the fusion results of "Focus Relationship Perception for Unsupervised Multi-focus Image Fusion" in the Lytro, MFFW, and MFI-WHU datasets.
+
 Link:https://pan.baidu.com/s/18BJ26CMVuPhy9HhqPRnmuw  
 key：9gmi 
 
@@ -10,5 +11,4 @@ It can be cited as:
   year={2024},
   volume={26},
   pages={6155-6165},
-  keywords={Image fusion;Feature extraction;Loss measurement;Data mining;Visual perception;Tensors;Optimization;Multi-focus image fusion;unsupervised learning},
   doi={10.1109/TMM.2023.3347099}}

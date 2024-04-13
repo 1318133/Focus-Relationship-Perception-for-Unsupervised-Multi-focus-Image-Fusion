@@ -1,3 +1,4 @@
+![focus](https://github.com/1318133/Focus-Relationship-Perception-for-Unsupervised-Multi-focus-Image-Fusion/assets/144504927/8304cf59-2727-4e58-8655-21c4015ca0ad)
 This is the fusion results of "Focus Relationship Perception for Unsupervised Multi-focus Image Fusion" in the Lytro, MFFW, and MFI-WHU datasets.
 
 # Results download

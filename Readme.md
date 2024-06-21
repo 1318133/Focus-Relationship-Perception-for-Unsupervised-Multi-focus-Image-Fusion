@@ -8,10 +8,10 @@ key：9gmi
 
 # Reference
 @ARTICLE{10374266,
-  author={Liu, Jinyang and Li, Shutao and Dian, Renwei and Song, Ze},
-  journal={IEEE Transactions on Multimedia}, 
-  title={Focus Relationship Perception for Unsupervised Multi-Focus Image Fusion}, 
-  year={2024},
-  volume={26},
-  pages={6155-6165},
+  author={Liu, Jinyang and Li, Shutao and Dian, Renwei and Song, Ze},  
+  journal={IEEE Transactions on Multimedia},   
+  title={Focus Relationship Perception for Unsupervised Multi-Focus Image Fusion},   
+  year={2024},  
+  volume={26},  
+  pages={6155-6165},  
   doi={10.1109/TMM.2023.3347099}}
